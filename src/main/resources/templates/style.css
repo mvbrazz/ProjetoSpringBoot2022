@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(#c31432,#240b36);
+}
+
+#login {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.card {
+    padding: 40px;
+    border-radius: 5px;
+    height: 25em;
+    width:20em;
+    color: white;
+    text-align: center;
+}
+.card> input{
+
+    width: 15em;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    color: white;
+    font-size: 11pt;
+    outline: none;
+    color: black;    
+}
+
+.card > button{
+    color: white;
+    width: 15em;
+    height: 2.5em;
+    border-radius: 8px;
+    background-color:white;
+    color: black;
+
+}
+
+.card > a{
+    color: white;
+}
+.cardCadastro{
+    align-items: center;
+    text-align: center;
+    padding: 40px;
+    border-radius: 5px;
+    height: 40em;
+    width:20em;
+    color: white;
+    text-align: center;
+}
+
+.cardCadastro> input{
+
+    width: 15em;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    color: white;
+    font-size: 11pt;
+    outline: none;
+    color: black;    
+}
+
+.cardCadastro > button{
+    color: white;
+    width: 15em;
+    height: 2.5em;
+    border-radius: 8px;
+    background-color:white;
+    color: black;
+
+}
+
+
+
