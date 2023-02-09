@@ -4,6 +4,14 @@ Projeto Spring Java 2022
 
 1° Fase (Criação do projeto Spring) : 
 
+Adicionar extensões no VSCODE:
+
+Java Extension Pack
+Spring Boot Extension Pack
+Lombok
+
+Instalando Java JDK
+
 CTRL + SHIFT + P 
 Spring Initializr: Create a Maven Project
 Spring Boot Version: 2.7.4
